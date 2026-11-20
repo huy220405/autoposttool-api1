@@ -1,0 +1,6 @@
+@HhuyShopAutoPost.Api_HostAddress = http://localhost:5037
+
+GET {{HhuyShopAutoPost.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

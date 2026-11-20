@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AutoPostTest/AutoPostTest.csproj" />
+  <Project Path="HhuyShopAutoPost.Api/HhuyShopAutoPost.Api.csproj" Id="10907ed9-20b1-4fb9-92f4-88381e588cb5" />
+</Solution>
